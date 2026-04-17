@@ -32,4 +32,4 @@ Consente di visualizzare inserzioni immobiliari, proporre offerte, valutare la v
 ### Configurazione
 1. Clona il repository:
    ```bash
-   git clone https://github.com/g-visconti/CodProgettoIngSw055.git
+   git clone https://github.com/g-visconti/CodProgettoIngSw055_public.git
