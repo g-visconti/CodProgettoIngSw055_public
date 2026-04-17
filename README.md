@@ -37,5 +37,5 @@ Consente di visualizzare inserzioni immobiliari, proporre offerte, valutare la v
 ## 📚 Documentazione
 
 Per maggiori dettagli, consultare la documentazione del progetto:
-- [Presentazione del progetto](docs/Presentazione di DietiEstates25.pdf)
-- [Documentazione tecnica](docs/INGSW2425_055.pdf)
+- [Presentazione del progetto](docs/PresentazioneDietiEstates25.pdf)
+- [Documentazione tecnica](docs/DocumentazioneDietiEstates25.pdf)
