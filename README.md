@@ -33,3 +33,9 @@ Consente di visualizzare inserzioni immobiliari, proporre offerte, valutare la v
 1. Clona il repository:
    ```bash
    git clone https://github.com/g-visconti/CodProgettoIngSw055_public.git
+
+## 📚 Documentazione
+
+Per maggiori dettagli, consultare la documentazione del progetto:
+- [Presentazione del progetto](docs/Presentazione di DietiEstates25.pdf)
+- [Documentazione tecnica](docs/INGSW2425_055.pdf)
